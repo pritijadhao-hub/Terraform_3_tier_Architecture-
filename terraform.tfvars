@@ -1,1 +1,6 @@
-
+my_region     = "ap-south-1"
+access_key    = ""
+secret_key    = ""
+my_ami        = "ami-05fa46471b02db0ce"
+vpc_id        = "vpc-0fc68d4cffea500eb"
+instance_type = "t2.micro"
